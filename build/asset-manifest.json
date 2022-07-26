@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7a0dd15b.css",
+    "main.js": "./static/js/main.dbdd5a5c.js",
+    "static/js/787.dc016014.chunk.js": "./static/js/787.dc016014.chunk.js",
+    "static/media/wood_panel.png": "./static/media/wood_panel.d3ac720207c7e0c1bce2.png",
+    "index.html": "./index.html",
+    "main.7a0dd15b.css.map": "./static/css/main.7a0dd15b.css.map",
+    "main.dbdd5a5c.js.map": "./static/js/main.dbdd5a5c.js.map",
+    "787.dc016014.chunk.js.map": "./static/js/787.dc016014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a0dd15b.css",
+    "static/js/main.dbdd5a5c.js"
+  ]
+}
