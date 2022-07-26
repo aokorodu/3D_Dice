@@ -1,0 +1,31 @@
+.Craps {
+    text-align: center;
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .holder {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  canvas {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    margin-bottom: 2rem;
+  }
+
+  .questionHolder {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin: 1rem;
+  }
+

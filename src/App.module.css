@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+}
+
+.settingsSelect{
+  margin: 0 1rem;
+}
+
+.holder {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.questionHolder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.settingsHolder {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
